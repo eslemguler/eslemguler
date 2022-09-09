@@ -9,7 +9,7 @@
 
 - 📝 I try to write (Turkish) articles on [my medium 📓](https://medium.com/@eslemguler)
 
-- 📫 How to reach me **eslemsugra@gmail.com**
+- 📫 You can reach me through **eslemsugra@gmail.com**
 
 - 📄 Know about my experiences from [my linkedin page 👩🏼‍💻 ](https://www.linkedin.com/in/eslemguler/)
 
