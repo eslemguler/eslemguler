@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Mentorgem Project](https://mentorgem.com/)
 
-- 🌱 I’m currently learning **ML Algorithms and use cases**
+- 🌱 I’m currently learning **XGBoost**
 
 - 👨‍💻 All of my projects are available at [my github page 💻](https://github.com/eslemguler/)
 
