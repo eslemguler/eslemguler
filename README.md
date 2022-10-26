@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Mentorgem Project](https://mentorgem.com/)
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Deep Learning by getting the course of Andrew NG**
 
 - 👨‍💻 All of my projects are available at [my github page 💻](https://github.com/eslemguler/)
 
