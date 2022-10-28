@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Deep Learning by taking an [Andrew NG course](https://www.coursera.org/specializations/deep-learning)**
 
-- 👨‍💻 All of my projects are available at [my github page 💻](https://github.com/eslemguler/)(https://github.com/eslemguler)
+- 👨‍💻 All of my projects are available at [my github page 💻](https://github.com/eslemguler/)
 
 - 📝 I try to write (Turkish) articles on [my medium 📓](https://medium.com/@eslemguler)
 
 - 📫 You can reach me through **eslemsugra@gmail.com**
 
-- 📄 Know about my experiences from [https://www.linkedin.com/in/eslemguler/](https://www.linkedin.com/in/eslemguler/)
+- 📄 Know about my experiences from [my linkedin page 👩🏼‍💻 ](https://www.linkedin.com/in/eslemguler/)
 
 - 🍕 Fun fact : I love learning languages but not just python, also Italian, German and maybe someday Spanish 🥳
 
