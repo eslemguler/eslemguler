@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eslem</h1>
 <h3 align="center">Mathematical Engineer, Data Scientist</h3>
 
-- 🔭 I’m currently working on [Mentorgem project](https://mentorgem.com/)
+- 🔭 I’m currently working at Sony.
 
 - 🌱 I’m currently learning **Deep Learning by taking an [Andrew NG course](https://www.coursera.org/specializations/deep-learning)**
 
