@@ -3,8 +3,7 @@
 
 - 🔭 I’m currently working at Sony.
 
-- 🌱 I’m currently learning **Deep Learning by taking an [Andrew NG course](https://www.coursera.org/specializations/deep-learning)**
-
+<!-- - 🌱 I’m currently learning **Deep Learning by taking an [Andrew NG course](https://www.coursera.org/specializations/deep-learning)** -->
 - 👨‍💻 All of my projects are available at [my github page 💻](https://github.com/eslemguler/)
 
 - 📝 I try to write (Turkish) articles on [my medium 📓](https://medium.com/@eslemguler)
