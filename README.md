@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Eslem</h1>
 <h3 align="center">Mathematical Engineer, Data Scientist</h3>
 
-- 🔭 I’m currently working at Sony.
+- 🔭 I’m currently working at Migros, R&D.
 
-<!-- - 🌱 I’m currently learning **Deep Learning by taking an [Andrew NG course](https://www.coursera.org/specializations/deep-learning)** -->
-- 👨‍💻 All of my projects are available at [my github page 💻](https://github.com/eslemguler/)
-
-- 📝 I try to write (Turkish) articles on [my medium 📓](https://medium.com/@eslemguler)
+<!-- - 🌱 I’m currently taking DataCamp's Data Scientist Professional Courses -->
+- 👨‍💻 All of my projects are not available at [my github page 💻](https://github.com/eslemguler/) because some of them are in my company's GitLab :) 
 
 - 📫 You can reach me through **eslemsugra@gmail.com**
 
