@@ -4,7 +4,7 @@
 - 🔭 I’m currently working at Migros, R&D.
 
 <!-- - 🌱 I’m currently taking DataCamp's Data Scientist Professional Courses -->
-- 👨‍💻 All of my projects are not available at [my github page 💻](https://github.com/eslemguler/) because some of them are in my company's GitLab :) 
+- 👨‍💻 All of my projects are not available at [my github page 💻](https://github.com/eslemguler/) because most of them are in my company's GitLab :) 
 
 - 📫 You can reach me through **eslemsugra@gmail.com**
 
